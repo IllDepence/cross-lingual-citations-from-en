@@ -1,3 +1,6 @@
 [submodule "initial_analysis"]
 	path = initial_analysis
 	url = https://github.com/IllDepence/icadl2020
+[submodule "citation_context_classification"]
+	path = citation_context_classification
+	url = https://github.com/e-tony/x-lingual-citation-context-analysis
