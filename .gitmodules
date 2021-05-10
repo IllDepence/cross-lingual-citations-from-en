@@ -1,0 +1,3 @@
+[submodule "initial_analysis"]
+	path = initial_analysis
+	url = https://github.com/IllDepence/icadl2020
