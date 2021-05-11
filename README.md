@@ -6,3 +6,7 @@
     * Source code, data, and evaluation details as published at ICADL2020
 * citation\_context\_classification
     * Source code for citation context classification
+* author\_based\_analysis
+    * Source code for author based analysis
+* manual\_annotation
+    * Source code for sampling and manual annotation results
