@@ -8,5 +8,5 @@
     * Source code for citation context classification
 * author\_based\_analysis
     * Source code for author based analysis
-* manual\_annotation
-    * Source code for sampling and manual annotation results
+* analysis\_of\_language\_marker\_prevalence
+    * Source code, data, and evaluation details regarding language marker prevalence
