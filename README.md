@@ -23,9 +23,11 @@
   title      = {{Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Formation, and Ramifications}},
   journal    = {International Journal on Digital Libraries},
   year       = {2021},
+  month      = dec,
   doi        = {10.1007/s00799-021-00312-z},
   issn       = {1432-1300},
-  month      = dec,
+  number     = {2},
+  pages      = {179--195},
+  volume     = {23},
   shorttitle = {Cross-Lingual Citations in English Papers},
 }
-```
