@@ -20,7 +20,7 @@
 ```
 @article{Saier2021crossling,
   author     = {Saier, Tarek and F{\"{a}}rber, Michael and Tsereteli, Tornike},
-  title      = {{Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Formation, and Ramifications}},
+  title      = {{Cross-Lingual Citations in English Papers: A Large-Scale Analysis of Prevalence, Usage, and Impact}},
   journal    = {International Journal on Digital Libraries},
   year       = {2021},
   month      = dec,
